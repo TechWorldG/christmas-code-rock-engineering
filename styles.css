@@ -22,9 +22,12 @@ section {
 }
 
 .tree {
-    font-size: 20px;
+    font-size: 18px;
     color: #00ff00;
+    line-height: 1.2;
+    white-space: pre;
 }
+
 
 .code-snippet {
     background-color: #272822;
